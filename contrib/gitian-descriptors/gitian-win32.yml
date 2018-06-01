@@ -13,7 +13,7 @@ packages:
 - "faketime"
 reference_datetime: "2011-01-30 00:00:00"
 remotes:
-- "url": "https://github.com/loopcoin-project/loopcoin.git"
+- "url": "https://github.com/nav2018/loopcoin.git"
   "dir": "loopcoin"
 files:
 - "qt-win32-4.8.5-gitian-r8.zip"
